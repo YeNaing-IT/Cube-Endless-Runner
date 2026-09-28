@@ -45,9 +45,8 @@ The player must move the cube and react quickly to avoid collisions.
 ## 🎮 Controls
 
 | Action | Control |
-| Move Left | Left-Click |
-
-Use the movement controls to avoid obstacles and keep the cube running for as long as possible.
+|---|---|
+| Move Left | `Left-click` |
 
 ## 🧠 Unity Concepts Demonstrated
 
